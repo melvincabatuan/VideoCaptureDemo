@@ -1,5 +1,11 @@
 package ph.edu.dlsu;
 
+/*
+ * Copyright: Daniel Lélis Baggio, OpenCV 3.0 Computer Vision with Java
+ * (This code is utilized here for research and education purpose ONLY)
+ */
+
+
 import org.opencv.core.Core;
 import org.opencv.core.Mat;
 import org.opencv.videoio.VideoCapture;
