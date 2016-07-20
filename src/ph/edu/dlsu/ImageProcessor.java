@@ -2,7 +2,10 @@ package ph.edu.dlsu;
 
 /**
  * Created by cobalt on 2/24/16.
+ * Copyright: Daniel Lélis Baggio, OpenCV 3.0 Computer Vision with Java
+ * (Utilized here for research and education purpose ONLY)
  */
+ 
 import org.opencv.core.Mat;
 
 import java.awt.image.BufferedImage;
